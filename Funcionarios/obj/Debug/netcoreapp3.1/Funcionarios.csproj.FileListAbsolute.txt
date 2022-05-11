@@ -1,0 +1,14 @@
+C:\Users\Gustavo\source\repos\Funcionarios\Funcionarios\obj\Debug\netcoreapp3.1\Funcionarios.csproj.AssemblyReference.cache
+C:\Users\Gustavo\source\repos\Funcionarios\Funcionarios\obj\Debug\netcoreapp3.1\Funcionarios.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Gustavo\source\repos\Funcionarios\Funcionarios\obj\Debug\netcoreapp3.1\Funcionarios.AssemblyInfoInputs.cache
+C:\Users\Gustavo\source\repos\Funcionarios\Funcionarios\obj\Debug\netcoreapp3.1\Funcionarios.AssemblyInfo.cs
+C:\Users\Gustavo\source\repos\Funcionarios\Funcionarios\obj\Debug\netcoreapp3.1\Funcionarios.csproj.CoreCompileInputs.cache
+C:\Users\Gustavo\source\repos\Funcionarios\Funcionarios\bin\Debug\netcoreapp3.1\Funcionarios.exe
+C:\Users\Gustavo\source\repos\Funcionarios\Funcionarios\bin\Debug\netcoreapp3.1\Funcionarios.deps.json
+C:\Users\Gustavo\source\repos\Funcionarios\Funcionarios\bin\Debug\netcoreapp3.1\Funcionarios.runtimeconfig.json
+C:\Users\Gustavo\source\repos\Funcionarios\Funcionarios\bin\Debug\netcoreapp3.1\Funcionarios.runtimeconfig.dev.json
+C:\Users\Gustavo\source\repos\Funcionarios\Funcionarios\bin\Debug\netcoreapp3.1\Funcionarios.dll
+C:\Users\Gustavo\source\repos\Funcionarios\Funcionarios\bin\Debug\netcoreapp3.1\Funcionarios.pdb
+C:\Users\Gustavo\source\repos\Funcionarios\Funcionarios\obj\Debug\netcoreapp3.1\Funcionarios.dll
+C:\Users\Gustavo\source\repos\Funcionarios\Funcionarios\obj\Debug\netcoreapp3.1\Funcionarios.pdb
+C:\Users\Gustavo\source\repos\Funcionarios\Funcionarios\obj\Debug\netcoreapp3.1\Funcionarios.genruntimeconfig.cache
